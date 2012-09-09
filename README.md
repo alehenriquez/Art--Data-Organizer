@@ -1,1 +1,1 @@
-This program reads in an input file with a certain format and stores the data into struct arrays.
+This program reads in an input file with a specfic format and dynamically allocates memory to store the data.

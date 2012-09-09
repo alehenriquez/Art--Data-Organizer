@@ -1,10 +1,6 @@
-/* Lab 1: Art Data Organizer
-
+/* 
   This program reads in an input file with a certain format and stores the data into struct arrays.
-  
-  By: Huy Nguyen (11183413)
   Date: 4/28/12
-  CIS 26B 
 
   Compiler: GCC
   OS: Linux Mint 11
@@ -279,15 +275,3 @@ void allocateStructMem (CASE** all)
 
   return;
 }
-
-
-
-/* Program output:
-
-
-Name of input file: art.txt
-File name for artist count output: count.txt
-File name for best rated art(s): best.txt
-
-
-*/
